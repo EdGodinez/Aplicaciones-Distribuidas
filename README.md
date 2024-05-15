@@ -1,37 +1,14 @@
-# Repositorio de Trabajos de "Aplicaciones Distribuidas"
+# Desarrollo de Aplicaciones Distribuidas - Eduardo Godines Santana
 
-Este repositorio contiene una recopilación de los trabajos realizados por el equipo conformado por Eduardo Godínez Santana, César Eduardo Atempa Basilio, José Armando Moras Moras y Daniela Carvajal García para la materia de "Aplicaciones Distribuidas".
+Este repositorio contiene los trabajos realizados por Eduardo Godines Santana para la materia de Desarrollo de Aplicaciones Distribuidas.
 
-## Descripción
+## Trabajos incluidos:
 
-En este repositorio, encontrarás una serie de trabajos que abordan diferentes aspectos y tecnologías relacionadas con las aplicaciones distribuidas. Estos trabajos sirven como evidencia del aprendizaje y la práctica realizados por nuestro equipo en el marco de la asignatura.
+1. **Sockets**: Implementación de comunicación mediante sockets en Java para el intercambio de mensajes entre cliente y servidor.
+2. **Websockets**: Desarrollo de una aplicación utilizando WebSockets para la comunicación bidireccional entre cliente y servidor en tiempo real.
+3. **RMI JDBC**: Implementación de un sistema distribuido utilizando Java RMI (Remote Method Invocation) y JDBC para la comunicación con una base de datos.
+4. **SOAP JDBC**: Desarrollo de un servicio web SOAP utilizando JDBC para la conexión y manipulación de datos en una base de datos.
+5. **REST JDBC**: Creación de un servicio web RESTful utilizando JDBC para la comunicación con una base de datos relacional.
+6. **GraphQL**: Implementación de un servidor GraphQL para consultar y manipular datos distribuidos de manera eficiente.
 
-## Contenido
-
-Los trabajos incluidos en este repositorio abarcan los siguientes temas:
-
-- **WebSockets**: Implementaciones y ejemplos prácticos de comunicación en tiempo real utilizando WebSockets.
-- **Sockets**: Ejercicios y proyectos que exploran el uso de sockets para la comunicación entre aplicaciones distribuidas.
-- **SocketUDP**: Trabajos relacionados con la implementación y el uso de sockets UDP (User Datagram Protocol) para la comunicación en red.
-- **API Rest**: Desarrollos centrados en la creación y el consumo de API RESTful para la interacción entre sistemas distribuidos.
-
-## Estructura del Repositorio
-
-El repositorio está organizado de manera que cada trabajo tenga su propio directorio, dentro del cual se encuentran los archivos necesarios para compilar, ejecutar y comprender el proyecto correspondiente. Además, cada trabajo está acompañado de una breve documentación que describe su propósito, funcionamiento y cualquier otra información relevante.
-
-## Integrantes del Equipo
-
-- **Eduardo Godínez Santana**
-- **César Eduardo Atempa Basilio**
-- **José Armando Moras Moras**
-- **Daniela Carvajal García**
-
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Si encuentras algún error, tienes sugerencias de mejora o quieres agregar un nuevo trabajo, no dudes en enviar un *pull request*. Trabajaremos juntos para mantener este repositorio actualizado y útil para la comunidad de desarrollo de aplicaciones distribuidas.
-
-## Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE). Puedes consultar el archivo de licencia para obtener más información.
-
-¡Gracias por visitar nuestro repositorio! Esperamos que estos trabajos sean de utilidad para tu aprendizaje y desarrollo en el campo de las aplicaciones distribuidas.
+¡Gracias por visitar este repositorio!
