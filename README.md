@@ -1,6 +1,6 @@
-# Desarrollo de Aplicaciones Distribuidas - Eduardo Godines Santana
+# Desarrollo de Aplicaciones Distribuidas - Eduardo Godinez Santana
 
-Este repositorio contiene los trabajos realizados por Eduardo Godines Santana para la materia de Desarrollo de Aplicaciones Distribuidas.
+Este repositorio contiene los trabajos realizados por Eduardo Godinez Santana para la materia de Desarrollo de Aplicaciones Distribuidas.
 
 ## Trabajos incluidos:
 
